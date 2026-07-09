@@ -1,6 +1,6 @@
 # EEBFM-3A-2026
 
-> Repositorio da turma **3A** da Escola Estadual Bento Fernandes de Mello (EEBFM) — ano letivo 2026.
+> Repositorio da turma **3A** da Escola Estadual Professora Benedita Freire Macedo (EEBFM) — ano letivo 2026.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
