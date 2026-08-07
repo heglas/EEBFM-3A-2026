@@ -34,6 +34,14 @@ EEBFM-3A-2026/
 
 ---
 
+## Atividades disponiveis
+
+| Atividade | Disciplina | Arquivo |
+|---|---|---|
+| Modelagem ER + Quiz de SQL | BDCN | [exercicios/BDCN_Exercicios_ER_e_Quiz_SQL.md](exercicios/BDCN_Exercicios_ER_e_Quiz_SQL.md) |
+
+---
+
 ## Como usar
 
 ```bash
