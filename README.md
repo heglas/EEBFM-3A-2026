@@ -8,7 +8,9 @@
 
 ## Primeira vez aqui?
 
-Leia o **[COMECE-AQUI](COMECE-AQUI.md)**. Ele explica em 2 minutos como abrir os materiais no celular ou no computador, sem instalar nada.
+Leia o **[COMECE-AQUI](COMECE-AQUI.md)**. Ele explica em 2 minutos como abrir os materiais no notebook que voce leva para a aula, sem instalar nada.
+
+Ja sabe onde achar o material e quer o passo a passo de **como fazer** a atividade? Leia o **[COMO-FAZER-AS-ATIVIDADES](COMO-FAZER-AS-ATIVIDADES.md)**: como escrever SQL no navegador sem instalar nada, como usar as planilhas de apoio, as mensagens de erro mais comuns e como entregar.
 
 ---
 
@@ -17,9 +19,9 @@ Leia o **[COMECE-AQUI](COMECE-AQUI.md)**. Ele explica em 2 minutos como abrir os
 | Materia | Nome completo | Material |
 |---|---|---|
 | PACD | Programacao Aplicada a Ciencia de Dados | Em breve |
-| **BDCN** | Banco de Dados e Computacao em Nuvem | [Ver 2 materiais](02-BDCN/README.md) |
+| **BDCN** | Banco de Dados e Computacao em Nuvem | [Ver 4 materiais](02-BDCN/README.md) |
 | AM | Aprendizado de Maquina | Em breve |
-| **MECD** | Matematica e Estatistica para Ciencia de Dados | [Ver 2 materiais](04-MECD/README.md) |
+| **MECD** | Matematica e Estatistica para Ciencia de Dados | [Ver 4 materiais](04-MECD/README.md) |
 
 ---
 
@@ -28,6 +30,7 @@ Leia o **[COMECE-AQUI](COMECE-AQUI.md)**. Ele explica em 2 minutos como abrir os
 ```
 EEBFM-3A-2026/
 |-- COMECE-AQUI.md                <- leia primeiro
+|-- COMO-FAZER-AS-ATIVIDADES.md   <- passo a passo de execucao
 |-- 02-BDCN/                      <- material separado por bimestre
 |-- 04-MECD/                      <- material separado por bimestre
 |-- projetos/                     <- trabalhos e projetos finais

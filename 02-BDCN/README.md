@@ -2,7 +2,7 @@
 
 > Turma **EEBFM-3A** · 3a serie · ano letivo 2026
 
-Nao sabe como abrir os arquivos? Leia o [COMECE-AQUI](../COMECE-AQUI.md) primeiro.
+Nao sabe como abrir os arquivos? Leia o [COMECE-AQUI](../COMECE-AQUI.md) primeiro. Para o passo a passo de execucao das atividades, veja [COMO-FAZER-AS-ATIVIDADES](../COMO-FAZER-AS-ATIVIDADES.md).
 
 [Voltar para a pagina inicial da turma](../README.md)
 
@@ -18,9 +18,11 @@ Nao sabe como abrir os arquivos? Leia o [COMECE-AQUI](../COMECE-AQUI.md) primeir
 
 ## 3o bimestre
 
-| O que e | Tipo | Abrir |
-|---|---|---|
-| Exercicios de modelagem ER e quiz de SQL | Atividade | [Abrir](3-bimestre/exercicios-modelagem-ER-e-quiz-SQL.md) |
+| Aula | O que e | Tipo | Abrir |
+|---|---|---|---|
+| S17 | Aula 3 - Pratica: criando tabelas relacionadas em SQL | Atividade | [Abrir](3-bimestre/S17_A3_criacao-tabelas-relacionadas-sql.md) |
+| S17 | Aula 3 - Dados do campeonato para inserir nas tabelas | Codigo | [Abrir](3-bimestre/S17_A3_dados-campeonato.sql) |
+| - | Exercicios de modelagem ER e quiz de SQL | Atividade | [Abrir](3-bimestre/exercicios-modelagem-ER-e-quiz-SQL.md) |
 
 ---
 

@@ -65,9 +65,10 @@ Opcional, so se quiser o material completo offline:
 Isso e normal e nao e problema seu. Faca nesta ordem:
 
 1. Confira se voce salvou a copia no Drive (passo 2)
-2. Pergunte a um colega da turma
-3. Registre a duvida no mural do **Google Classroom**
-4. Traga na proxima aula — se varias pessoas travaram no mesmo ponto, a gente revisa junto
+2. Veja a tabela de erros do **[COMO-FAZER-AS-ATIVIDADES](COMO-FAZER-AS-ATIVIDADES.md)** — as mensagens mais comuns estao explicadas la
+3. Pergunte a um colega da turma
+4. Registre a duvida no mural do **Google Classroom**
+5. Traga na proxima aula — se varias pessoas travaram no mesmo ponto, a gente revisa junto
 
 ---
 
