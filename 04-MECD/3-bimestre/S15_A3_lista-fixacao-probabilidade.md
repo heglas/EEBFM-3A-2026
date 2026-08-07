@@ -281,6 +281,11 @@ mural do Classroom qual bloco travou. Não fique parado no mesmo item.
 
 ---
 
+<!-- VINCULO-SEDUC:inicio -->
+<!-- Esta secao e preenchida automaticamente por gerar_readmes.py
+     a partir de VINCULOS no manifesto. Nao edite a mao. -->
+<!-- VINCULO-SEDUC:fim -->
+
 ## Para estudar mais
 
 - [Khan Academy — Estatística e Probabilidade](https://pt.khanacademy.org/math/statistics-probability), em português e gratuito

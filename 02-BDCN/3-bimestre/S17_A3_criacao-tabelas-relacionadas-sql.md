@@ -361,6 +361,11 @@ pseudonimização, e é a prática padrão de quem trabalha com banco de dados.
 
 ---
 
+<!-- VINCULO-SEDUC:inicio -->
+<!-- Esta secao e preenchida automaticamente por gerar_readmes.py
+     a partir de VINCULOS no manifesto. Nao edite a mao. -->
+<!-- VINCULO-SEDUC:fim -->
+
 ## Para estudar mais
 
 - [SQLite — documentação de chaves estrangeiras](https://www.sqlite.org/foreignkeys.html)
